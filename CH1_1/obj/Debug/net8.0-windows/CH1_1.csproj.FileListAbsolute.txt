@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\CH1_1\obj\Debug\net8.0-windows\CH1_1.Form1.resources
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\CH1_1\obj\Debug\net8.0-windows\CH1_1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\CH1_1\obj\Debug\net8.0-windows\CH1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\CH1_1\obj\Debug\net8.0-windows\CH1_1.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\CH1_1\obj\Debug\net8.0-windows\CH1_1.AssemblyInfo.cs
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\CH1_1\obj\Debug\net8.0-windows\CH1_1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\CH1_1\obj\Debug\net8.0-windows\CH1_1.sourcelink.json
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\CH1_1\bin\Debug\net8.0-windows\CH1_1.exe
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\CH1_1\bin\Debug\net8.0-windows\CH1_1.deps.json
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\CH1_1\bin\Debug\net8.0-windows\CH1_1.runtimeconfig.json
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\CH1_1\bin\Debug\net8.0-windows\CH1_1.dll
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\CH1_1\bin\Debug\net8.0-windows\CH1_1.pdb
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\CH1_1\obj\Debug\net8.0-windows\CH1_1.dll
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\CH1_1\obj\Debug\net8.0-windows\refint\CH1_1.dll
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\CH1_1\obj\Debug\net8.0-windows\CH1_1.pdb
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\CH1_1\obj\Debug\net8.0-windows\CH1_1.genruntimeconfig.cache
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\CH1_1\obj\Debug\net8.0-windows\ref\CH1_1.dll
