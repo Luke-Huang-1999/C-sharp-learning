@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\class schedule\bin\Debug\net8.0-windows\class schedule.exe
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\class schedule\bin\Debug\net8.0-windows\class schedule.deps.json
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\class schedule\bin\Debug\net8.0-windows\class schedule.runtimeconfig.json
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\class schedule\bin\Debug\net8.0-windows\class schedule.dll
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\class schedule\bin\Debug\net8.0-windows\class schedule.pdb
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\class schedule\obj\Debug\net8.0-windows\class_schedule.Form1.resources
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\class schedule\obj\Debug\net8.0-windows\class schedule.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\class schedule\obj\Debug\net8.0-windows\class schedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\class schedule\obj\Debug\net8.0-windows\class schedule.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\class schedule\obj\Debug\net8.0-windows\class schedule.AssemblyInfo.cs
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\class schedule\obj\Debug\net8.0-windows\class schedule.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\class schedule\obj\Debug\net8.0-windows\class schedule.sourcelink.json
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\class schedule\obj\Debug\net8.0-windows\class schedule.dll
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\class schedule\obj\Debug\net8.0-windows\refint\class schedule.dll
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\class schedule\obj\Debug\net8.0-windows\class schedule.pdb
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\class schedule\obj\Debug\net8.0-windows\class schedule.genruntimeconfig.cache
+C:\Users\USER\Desktop\程式語言\C-sharp-learning\class schedule\obj\Debug\net8.0-windows\ref\class schedule.dll
